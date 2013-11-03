@@ -1,0 +1,16 @@
+::New menu system
+
+
+
+::Spaces after the ) bracket to add text from the echo function
+echo 1)
+echo 2)
+echo 3)
+echo 4)
+
+
+::Cleaner way of making the menu
+if %a% == 1
+if %a% == 2
+if %a$ == 3
+if %a% == 4
